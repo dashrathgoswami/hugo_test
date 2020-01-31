@@ -1,4 +1,4 @@
-#ths is a multi-stage Dockerfile (build and run)
+#ths :is a multi-stage Dockerfile (build and run)
 
 # Remember to target specific version in your base image,
 # because you want reproducibility (in a few years you will thank me)
