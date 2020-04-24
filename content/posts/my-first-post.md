@@ -22,3 +22,6 @@ some another changes
 ```
 echo "Hello World"
 ```
+```
+echo "Hello Openshift"
+```
